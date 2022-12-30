@@ -1,2 +1,2 @@
-# javascript-vanilla-game-simon
+# Game Simon
 Game simon in vanilla js
